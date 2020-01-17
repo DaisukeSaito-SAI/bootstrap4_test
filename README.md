@@ -13,3 +13,5 @@ or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
 # bootstrap4_test
+https://webst8.com/blog/css-bootstrap4-howto/
+あらかた学び終える。
